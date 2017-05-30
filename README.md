@@ -27,3 +27,12 @@ Create a simple image gallery grid page with an on-click event for the images th
 
 ### Presenting your solution
 After completing the assessment please push your branch and let us know by a pull request, you can override this readme file with yours that may include information about your solution, file structure, etc.
+
+### Installion
+1. Make sure you install the latest version of node.
+2. Open the terminal in the project directory and run 'npm install' to install libraries and dev dependencies.
+3. In the terminal run 'npm run build' to build the project.
+4. Browse the index.html located in the project directory.
+
+### Notes
+- Please Note that I am using sass webpack loader which compiles and bundles the sass in the bundled javascript file located in the dist folder
