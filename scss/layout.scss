@@ -1,0 +1,11 @@
+header {
+   padding: 0.2em;
+    color: black;
+    background-color: #DCDCDC;
+    clear: left;
+    text-align: center;
+}
+footer{
+    @extend header;
+    margin-top: 5px;
+}
