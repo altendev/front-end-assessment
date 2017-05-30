@@ -1,0 +1,12 @@
+$gridSettings: (
+    maxWidth: 800px,
+    columns: 4,
+    margin: 10px,
+    padding:5px,
+    breakpoints: (  
+        xs: "(max-width : 480px)", 
+        sm: "(max-width : 768px) and (min-width: 481px)",
+        md: "(max-width : 1024px)  and (min-width: 769px)",
+        lg: "(min-width : 1025px)"
+    )   
+);
